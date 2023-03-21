@@ -1,0 +1,33 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+
+text-align:center;
+
+color:rgb(214, 214, 214);
+
+font-size:5vw;
+
+}
+
+h2 {
+
+text-align:center;
+
+color:rgb(214, 214, 214);
+
+font-size:2vw;
+
+}
+
+body {
+
+background: rgb(2,120,2);
+background: radial-gradient(circle, rgb(4, 102, 248) 0%, rgb(255, 255, 255) 100%);
+
+}
